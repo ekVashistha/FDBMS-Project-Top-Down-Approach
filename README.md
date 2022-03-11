@@ -14,7 +14,8 @@ ER - Diagram<br>
 ![image](https://user-images.githubusercontent.com/93220407/157808269-ca01193f-4dac-4749-8005-d7b00b97166e.png)<br>
 Mysql ERD <br>
 ![image](https://user-images.githubusercontent.com/93220407/157808617-d42b48ed-99c2-4023-9011-fcc81734f990.png)<br>
-## Group 16
+
+## Group 16 <br>
 Ekansh Vashistha - 025015 <br>
 Shubham Gupta - 025032 <br>
 Muskan Kaur - 025042 <br>
